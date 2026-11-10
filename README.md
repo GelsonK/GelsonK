@@ -1,145 +1,125 @@
-# 👩🏻‍💻 Gelson Kito
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
+</div>
 
-**`Desenvolvedora FullStack`**
+<div align="center">
+  <h3>⚡ Futuro Analista de Sistemas | Desenvolvedor Full Stack ⚡</h3>
+  <p>📍 Luanda, Angola 🇦🇴</p>
 
-Me chamo Gelson José Kito , tenho 20 anos e sou natural de Luanda . Estudante no IPPK , com o curso técnico em informática. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas .
+  [![GitHub followers](https://shields.io)](https://github.com)
+  [![Stars](https://shields.io)](https://github.com)
+</div>
 
 ---
 
-###  Linguagens e Tecnologias
+### 👤 Sobre Mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+```json
+{
+  "nome": "Gelson José Kito",
+  "idade": 19,
+  "localizacao": "Luanda, Angola",
+  "instituicao": "Instituto Politécnico Kito (IPPK)",
+  "curso": "Análise de Sistemas",
+  "foco_atual": ["Aprofundar em Engenharia de Software", "Construir APIs robustas"]
+}
+```
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+### 💻 Stack Tecnológica (My Dashboard)
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      🖥️ <b>Front-end</b>
+    </td>
+    <td align="center" width="33%">
+      ⚙️ <b>Back-end</b>
+    </td>
+    <td align="center" width="33%">
+      🗄️ <b>Banco de Dados / Cloud</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://shields.io" /><br>
+      <img src="https://shields.io" /><br>
+      <img src="https://shields.io" /><br>
+      <img src="https://shields.io" /><br>
+      <img src="https://shields.io" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://shields.io" /><br>
+      <img src="https://shields.io" /><br>
+      <img src="https://shields.io" /><br>
+      <img src="https://shields.io" /><br>
+      <img src="https://shields.io" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://shields.io" /><br>
+      <img src="https://shields.io" /><br>
+      <img src="https://shields.io" /><br>
+      <img src="https://shields.io" />
+    </td>
+  </tr>
+</table>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
 
-</p>
+### 📊 Estatísticas em Tempo Real
+
+Abaixo estão os gráficos analíticos que mostram meu ritmo e as linguagens de código que mais utilizo:
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180" src="https://vercel.app" alt="Estatísticas do GitHub" />
+      </td>
+      <td>
+        <img height="180" src="https://vercel.app" alt="Linguagens mais usadas" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://herokuapp.com" alt="Sequência de Commits" width="100%" />
+</div>
+
+---
+
+### 📈 Meu Progresso Acadêmico & Técnico
+
+O desenvolvimento de software é uma jornada contínua. Aqui está o meu nível de afinidade simulado por componentes:
+
+- **Lógica e Estrutura de Sistemas** 
+  ![Progress](https://geps.dev)
+- **Desenvolvimento Web & Mobile (Full Stack)** 
+  ![Progress](https://geps.dev)
+- **Modelagem de Bancos de Dados (SQL / NoSQL)** 
+  ![Progress](https://geps.dev)
+
+---
+
+### 🤝 Vamos nos conectar?
+
+Sinta-se à vontade para acompanhar meus repositórios ou entrar em contacto para projetos e parcerias!
+
+<div align="left">
+  <a href="mailto:seu-email@exemplo.com" target="_blank">
+    <img src="https://shields.io" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://glitch.me" alt="Contador de Visitas" />
+</div>
