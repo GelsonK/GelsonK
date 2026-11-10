@@ -28,7 +28,7 @@
 <td width="62%" valign="top">
 
 Sou o **Gelson José Kito**, tenho **19 anos** e vivo em **Luanda, Angola**.
-Estudo **Análise de Sistemas** no **IPPK** e dedico o meu tempo a transformar ideias em aplicações que funcionam de ponta a ponta: do banco de dados à interface.
+Estudo **Análise de Sistemas** e dedico o meu tempo a transformar ideias em aplicações que funcionam de ponta a ponta: do banco de dados à interface.
 
 Gosto de entender bem o problema antes de escrever a primeira linha de código. Para mim, um bom sistema é aquele que as pessoas conseguem usar sem precisar de manual.
 
@@ -37,7 +37,7 @@ Gosto de entender bem o problema antes de escrever a primeira linha de código. 
 - aprofundar modelagem e análise de sistemas
 - construir APIs REST com Node.js, Express e Sequelize
 - explorar aplicações desktop com Electron
-- procurar estágios e projetos colaborativos
+
 
 </td>
 <td width="38%" valign="top">
