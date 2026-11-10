@@ -48,7 +48,7 @@ Gosto de entender bem o problema antes de escrever a primeira linha de código. 
 | **Idade** | 19 anos |
 | **Local** | Luanda, Angola |
 | **Instituição** | IPPK |
-| **Curso** | Análise de Sistemas |
+| **Curso** | Infomática |
 | **Foco** | Full Stack |
 | **Idioma** | Português |
 
